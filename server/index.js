@@ -39,6 +39,9 @@ app.use("/transaction", transactionRoutes);
 
 /* PORT FIX ✅ */
 const PORT = process.env.PORT || 9000;
+app.get("/", (req, res) => {
+  res.send("API is running 🚀");
+});
 
 /* MONGOOSE SETUP */
 mongoose
