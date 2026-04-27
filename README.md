@@ -96,18 +96,6 @@ This project is a full-stack finance dashboard application built with the MERN s
 
 - **Frontend & Backend:** Deploy both on [Render](https://render.com/).
 
-## Resources & References
 
-- **Node.js:** [Download Node.js](https://nodejs.org/en/download/)
-- **Vite:** [Vite Guide](https://vitejs.dev/guide/)
-- **React Router:** [React Router Documentation](https://reactrouter.com/en/v6.3.0/getting-started/overview)
-- **Redux Toolkit:** [Redux Toolkit Documentation](https://redux-toolkit.js.org/introduction/getting-started)
-- **Material UI:** [MUI Getting Started](https://mui.com/material-ui/getting-started/installation/)
-- **Recharts:** [Recharts Documentation](https://recharts.org/en-US/)
-- **Render:** [Render Deployment](https://render.com/)
 
-## Contact
 
-If you have any questions or feedback, please feel free to contact me at [pranjal360agarwal@gmail.com](mailto:pranjal360agarwal@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/pranjalagarwal99/) or [Twitter](https://twitter.com/Pranjal12393385). Thank you for visiting my portfolio website!
-
-# Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
